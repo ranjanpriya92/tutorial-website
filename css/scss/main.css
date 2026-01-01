@@ -1,0 +1,137 @@
+body {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+p {
+  font-size: 15px;
+}
+
+h1, h2, h3 {
+  font-family: "Bodoni Moda", serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.hero {
+  background-image: url(../../assets/images/happy-4339527_1920.png);
+  text-align: center;
+  padding: 50px 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+.hero .heroCardDiv {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.hero .heroCD {
+  flex: 1;
+  min-height: 200px;
+  max-width: 200px;
+  padding: 20px;
+  background-color: #fff;
+  text-align: center;
+  box-shadow: 0 1px 3px 0 rgba(50, 56, 81, 0.1), 0 6px 22px 0 rgba(68, 76, 108, 0.12), inset 0 -3px 2.5px 0 rgba(69, 78, 114, 0.03);
+  border-radius: 10px;
+}
+.hero .heroCD img {
+  width: 70px;
+}
+.hero .heroCD p {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.smartLearing {
+  padding: 50px 0;
+}
+
+.schoolTuition {
+  background-color: rgb(255, 245, 245);
+  padding: 50px 0;
+}
+
+.competitiveExam {
+  padding: 50px 0;
+}
+
+.onlineTest {
+  background-color: rgb(255, 245, 245);
+  padding: 50px 0;
+}
+
+.whyChooseUs {
+  padding: 50px 0;
+}
+
+#footer {
+  background: linear-gradient(180deg, rgb(60, 105, 160), rgb(35, 75, 130));
+  color: #ffffff;
+}
+
+.cardDiv {
+  background-color: rgb(255, 245, 245);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(10, 41, 65, 0.72);
+}
+.cardDiv h2 {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+}
+.cardDiv p {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+
+.cardDivWh {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(10, 41, 65, 0.72);
+}
+.cardDivWh h2 {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+}
+.cardDivWh p {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.tuitionPrimary {
+  padding: 50px 0;
+}
+.tuitionPrimary h1 {
+  font-size: 35px;
+  margin: 0 0 20px;
+}
+.tuitionPrimary p {
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0 0 10px;
+  line-height: 1;
+}
+
+.competitiveExam h1 {
+  text-align: center;
+  font-size: 35px;
+}
+.competitiveExam h1 span {
+  display: block;
+  font-size: 25px;
+}
+.competitiveExam p {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+}/*# sourceMappingURL=main.css.map */
